@@ -10,7 +10,7 @@ There are two goals with this project;
 
 The full dataset is linked here [Link](https://www.kaggle.com/datasets/harlfoxem/housesalesprediction)
 
-The cleaned dataset I used in the project (*Upload to Github and link*)
+The cleaned dataset I used in the project [Link](https://github.com/2024200/Project_1_test/tree/b2e9eedebbd93fbb3fe70d8ea044c407148304cb/Dataset))
 
 21060 entries, total 15 columns - Memory Usage: 2.4+ MB
 
