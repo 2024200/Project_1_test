@@ -45,7 +45,7 @@ Final model
 | Train Root Mean Squared Error | 71595.41 |
 | Mean Absolute Error | 6716080061.49 |
 
-![Screenshot 2024-08-13 at 22.00.28.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/c303fd20-d8be-482e-9e21-9dcd5c5d2b0d/bb1f17e2-6c46-42d7-9674-d41300e51999/Screenshot_2024-08-13_at_22.00.28.png)
+<img width="687" alt="Screenshot 2024-08-13 at 22 00 28 copy" src="https://github.com/user-attachments/assets/925e302b-af37-4ec2-9ee7-c19e82811075">
 
 ### Visualisation
 
