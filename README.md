@@ -29,6 +29,15 @@ Final model
 
 - XGBoost - {'learning_rate': 0.1, 'max_depth': 5, 'n_estimators': 300}
 
+Available at:
+
+|  | Notebook |
+| --- | --- |
+| Collab | [Collab](https://colab.research.google.com/drive/1_S51DZZhKQ_NYgNKOzUrctJGFQyeCevk?usp=sharing) |
+| Kaggle | [Kaggle](https://www.kaggle.com/code/jldoyle/house-price-prediction) |
+| Github | [Github](https://github.com/2024200/Project_1_test/blob/1fbc27bbda987a672ad7677bedb53d00799bacda/.ipynb_checkpoints/House_Data_Predictor-checkpoint.ipynb) |
+| Tableau | [Dashboard](https://public.tableau.com/app/profile/jason.doyle5808/viz/P1_House_Price_Prediction_Dashboard/Seattle) |
+
 ### Tech-stack + Libraries
 
 - **Python version**: 3.10.12
@@ -49,6 +58,6 @@ Final model
 
 ### Visualisation
 
-#### [Tableau Link](https://public.tableau.com/views/P1_House_Price_Prediction_Dashboard/Seattle?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+### [Tableau Link](https://public.tableau.com/views/P1_House_Price_Prediction_Dashboard/Seattle?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 <img width="1512" alt="Dashboard" src="https://github.com/user-attachments/assets/d57a097d-0ef3-4280-85eb-d118ee8563cc">
